@@ -1,0 +1,30 @@
+.swiper-button-next {
+  background-image: url(../../assets/right.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.swiper-button-next::after {
+  display:none;
+}
+
+.swiper-button-prev {
+  background-image: url(../../assets/left.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.swiper-button-prev::after {
+  display:none;
+}
+
+.mySwiper {
+  background-color: red;
+  
+}
+
+.swiper-pagination {
+  display: none;
+}
