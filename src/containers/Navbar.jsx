@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="flex w-full h-[73px] items-center border-b-2 border-[#1B1B1B]">
       <div className="flex items-center justify-between w-screen mx-6 sm:mx-10 lg:mx-20 xl:mx-40">
         <h1>
-          <a className="font-semibold text-xl" href="refresh">
+          <a className="font-semibold text-xl" href="">
             rahmanbax
           </a>
         </h1>

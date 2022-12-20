@@ -7,7 +7,7 @@ import About from "./containers/About";
 import WhatCan from "./containers/WhatCan";
 import Projects from "./containers/Projects";
 import WhatThey from "./containers/WhatThey";
-import Discuss from "./containers/Discuss";
+import Footer from "./containers/Footer";
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
       <WhatCan />
       <Projects />
       <WhatThey />
-      <Discuss />
+      <Footer />
     </div>
   );
 }

@@ -24,8 +24,8 @@ const Hero = () => {
         </p>
       </div>
       <div className="flex mt-8 gap-2 lg:gap-4">
-        <ButtonPrimary img={gmail} label="Email me" href="https://www.w3schools.com"/>
-        <ButtonSecondary className="text-white" img={whatsapp} />
+        <a href="mailto:basyirahman@gmail.com"><ButtonPrimary img={gmail} label="Email me" /></a>
+        <a href="https://api.whatsapp.com/send?phone=+6289698031779&text=Halo%20cuy"><ButtonSecondary className="text-white" img={whatsapp} /></a>
       </div>
     </div>
   );
