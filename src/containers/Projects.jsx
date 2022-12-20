@@ -17,18 +17,18 @@ const Projects = () => {
             className="w-full h-[175px] object-cover sm:h-[291px] lg:h-[463px] xl:h-[600px] overflow-hidden rounded-xl lg:rounded-2xl drop-shadow-secondaryimg"
           />
           <div className="mt-4  sm:flex sm:gap-4 lg:gap-8">
-            <div className="flex hover:underline hover:text-primary items-center">
+            <a href="https://www.behance.net/gallery/157097657/BuildU-PC-Computer-e-Commerce-Mobile-App" className="flex hover:underline hover:text-primary items-center">
               <p className=" mr-2 font-medium text-base lg:text-xl">
                 View Case Study on Behance
               </p>
               <img src={outward} className="h-5 lg:h-6" />
-            </div>
-            <div className="flex hover:underline hover:text-primary items-center mt-2 sm:mt-0 lg:mt-0">
+            </a>
+            <a href="https://dribbble.com/shots/19901746-BuildU-PC-Computer-e-Commerce-Mobile-App" className="flex hover:underline hover:text-primary items-center mt-2 sm:mt-0 lg:mt-0">
               <p className="mr-2 font-medium text-base lg:text-xl">
                 View on Dribbble
               </p>
               <img src={outward} className="h-5 lg:h-6 " />
-            </div>
+            </a>
           </div>
         </div>
         <div className="">
@@ -37,12 +37,12 @@ const Projects = () => {
             className="w-full h-[175px] object-cover sm:h-[291px] lg:h-[463px] xl:h-[600px] overflow-hidden rounded-xl lg:rounded-2xl drop-shadow-secondaryimg"
           />
           <div className="mt-4 lg:flex lg:gap-8">
-            <div className="flex hover:underline hover:text-primary items-center mt-2 lg:mt-0">
+            <a href="https://dribbble.com/shots/19784824-Livesoccer-Football-Live-Score-Mobile-App" className="flex hover:underline hover:text-primary items-center mt-2 lg:mt-0">
               <p className="mr-2 font-medium text-base lg:text-xl">
                 View on Dribbble
               </p>
               <img src={outward} className="h-5 lg:h-6 " />
-            </div>
+            </a>
           </div>
         </div>
         <div className="">
@@ -51,12 +51,12 @@ const Projects = () => {
             className="w-full h-[175px] object-cover sm:h-[291px] lg:h-[463px] xl:h-[600px] overflow-hidden rounded-xl lg:rounded-2xl drop-shadow-secondaryimg"
           />
           <div className="mt-4  lg:flex lg:gap-8">
-            <div className="flex hover:underline hover:text-primary items-center mt-2 lg:mt-0">
+            <a href="https://dribbble.com/shots/19786084-Furnice-Furniture-eCommerce-Mobile-App" className="flex hover:underline hover:text-primary items-center mt-2 lg:mt-0">
               <p className="mr-2 font-medium text-base lg:text-xl">
                 View on Dribbble
               </p>
               <img src={outward} className="h-5 lg:h-6 " />
-            </div>
+            </a>
           </div>
         </div>
       </div>
