@@ -1,14 +1,14 @@
-@import url('https://fonts.cdnfonts.com/css/clash-display');
+@import url("https://fonts.cdnfonts.com/css/clash-display");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body {
-  font-family: 'Clash Display', sans-serif;
+  font-family: "Clash Display", sans-serif;
 }
 
 html {
-  background-color: #0D0D0D;
+  background-color: #0d0d0d;
   color: white;
   letter-spacing: 0.02em;
 }
