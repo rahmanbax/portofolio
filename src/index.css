@@ -3,9 +3,12 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  font-family: 'Clash Display';
+}
+
 html {
   background-color: #0D0D0D;
   color: white;
   letter-spacing: 0.02em;
-  font-family: 'Clash Display', sans-serif;
 }
