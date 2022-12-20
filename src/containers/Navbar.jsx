@@ -13,16 +13,16 @@ const Navbar = () => {
 
         <ul className="font-medium text-[#C6C6C6] gap-16 hidden lg:flex">
           <li>
-            <a className="hover:text-[#9FFF40] transition ease-in-out" href="about">About</a>
+            <a className="hover:text-[#9FFF40] transition ease-in-out" href="#">About</a>
           </li>
           <li>
-            <a className="hover:text-[#9FFF40] transition ease-in-out" href="services">Services</a>
+            <a className="hover:text-[#9FFF40] transition ease-in-out" href="#">Services</a>
           </li>
           <li>
-            <a className="hover:text-[#9FFF40] transition ease-in-out" href="portofolio">Portofolio</a>
+            <a className="hover:text-[#9FFF40] transition ease-in-out" href="#">Portofolio</a>
           </li>
           <li>
-            <a className="hover:text-[#9FFF40] transition ease-in-out" href="contact">Contact</a>
+            <a className="hover:text-[#9FFF40] transition ease-in-out" href="#">Contact</a>
           </li>
         </ul>
 

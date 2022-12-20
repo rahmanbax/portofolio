@@ -8,13 +8,13 @@ const Footer = () => {
           <h4 className="font-semibold text-xl lg:text-[28px]">Get in touch</h4>
           <p className="text-base lg:text-xl text-[#C6C6C6] mt-2">
             For bussiness inquiry please email to{" "}
-            <a href="#" className="text-white underline">
+            <a href="mailto:basyirahman@gmail.com" className="text-white underline">
               basyirahman@gmail.com
             </a>
           </p>
         </div>
         <div className="flex gap-2">
-          <a href="">
+          <a href="https://www.linkedin.com/in/abdurrahmanbaasyir/">
             <svg
               width="32"
               height="32"
@@ -29,7 +29,7 @@ const Footer = () => {
             </svg>
           </a>
 
-          <a href="">
+          <a href="https://dribbble.com/rahmanbax">
             <svg
               width="32"
               height="32"
@@ -44,7 +44,7 @@ const Footer = () => {
             </svg>
           </a>
 
-          <a href="">
+          <a href="https://www.behance.net/rahmanbasyir">
             <svg
               width="32"
               height="32"
@@ -59,7 +59,7 @@ const Footer = () => {
             </svg>
           </a>
 
-          <a className="">
+          <a className="https://api.whatsapp.com/send?phone=+6281386701873&text=Halo%20cuy">
             <svg
               width="32"
               height="32"

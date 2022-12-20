@@ -25,7 +25,7 @@ const Hero = () => {
       </div>
       <div className="flex mt-8 gap-2 lg:gap-4">
         <a href="mailto:basyirahman@gmail.com"><ButtonPrimary img={gmail} label="Email me" /></a>
-        <a href="https://api.whatsapp.com/send?phone=+6289698031779&text=Halo%20cuy"><ButtonSecondary className="text-white" img={whatsapp} /></a>
+        <a href="https://api.whatsapp.com/send?phone=+6281386701873&text=Halo%20cuy"><ButtonSecondary className="text-white" img={whatsapp} /></a>
       </div>
     </div>
   );
