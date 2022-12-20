@@ -9,7 +9,7 @@ const WhatThey = () => {
       <h2 className="font-semibold text-xl lg:text-[28px]">What they say</h2>
       <div className="mt-6 lg:mt-12 flex flex-col lg:flex-row gap-4 lg:gap-8">
         <Testimonial img={faiz} say="anjayani" name="Sianjg" job="Tukang ngocok" />
-        <Testimonial img={nadhif} say="yo... angkasa" name="Sijmbt" job="Citer gt" />
+        <Testimonial img={nadhif} say="mbot" name="Sijmbt" job="Citer gt" />
       </div>
     </div>
   );
