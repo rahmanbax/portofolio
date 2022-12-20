@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 body {
-  font-family: 'Clash Display';
+  font-family: 'Clash Display', sans-serif;
 }
 
 html {
